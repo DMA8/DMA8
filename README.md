@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Dima
 - 👀 I’m interested in Python, ML, Django, DB
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Algorithms and ML
+- 💞️ I’m looking to collaborate on Django
+- 📫 How to reach me ///
 
 <!---
 DMA8/DMA8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
