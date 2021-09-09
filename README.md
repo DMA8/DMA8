@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python, ML, Django, DB
 - 🌱 I’m currently learning Backend Python, Algorithms and datastructures
 - 💞️ I’m looking to collaborate on Django
-- 📫 How to reach me ///
+- 📫 How to reach me tg: @buzfiz
 
 <!---
 DMA8/DMA8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
