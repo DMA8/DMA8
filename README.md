@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @Dima
+- I'm a student of "21 School" (Moscow) 
+- https://21-school.ru/
+- I'm learning C (as first lang is 21 school), Python (JetBrainsAcademy, Stepik), SQL(sql-ex.ru) 
 - 📫 How to reach me tg: @buzfiz
 
 <!---
