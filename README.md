@@ -1,5 +1,5 @@
 - I'm a student of "https://21-school.ru/" that is franchise of "https://42.fr/en/"
-- I'm learning C (as first lang is 21 school), Python (JetBrainsAcademy, Stepik), SQL(sql-ex.ru) 
+  Python, GO, C.
 - 📫 How to reach me tg: @buzfiz
 
 <!---
