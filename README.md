@@ -1,5 +1,5 @@
 - I'm a student of "https://21-school.ru/" that is franchise of "https://42.fr/en/"
-  Python, GO, C.
+  GO, C.
 - 📫 How to reach me tg: @buzfiz
 
 <!---
